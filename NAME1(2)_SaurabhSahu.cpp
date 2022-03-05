@@ -1,4 +1,8 @@
 /*
+ Basic idea is to concatenate the parents name and then search for the characters in the parent string.
+ If all characters are found in the parent string then, the permutation is possible. Achieve it by storing the frequency of the characters in the array.
+*/
+/*
   The same previous concept of frequency array will be used. But this time I would be concatenating the child strings and then run the query on that.
 */
 
